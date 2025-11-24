@@ -61,7 +61,7 @@ streamlit run app.py
 ## ☁️ Deployment (Streamlit Cloud)
 Create a `packages.txt` in the repo root containing:
 ```
-openjdk-11-jdk
+default-jdk
 ```
 Then deploy via Streamlit Community Cloud (New App → choose repo → Deploy).
 
